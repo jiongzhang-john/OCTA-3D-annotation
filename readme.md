@@ -5,3 +5,7 @@ This repository contains two OCTA datasets used in our study. The Zeiss dataset 
 
 🚀**Download**
 This is a public dataset for 3D OCTA; the link is [here](https://zenodo.org/records/17149202). 
+
+
+
+📖 Please cite the following reference: 
