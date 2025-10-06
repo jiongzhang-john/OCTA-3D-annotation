@@ -36,7 +36,8 @@ Manual vessel annotations are provided for selected scans.
 
 *Illustration of typical research tasks supported by this dataset.*
 
-###🚀**Download**
+### Download
 
 This is a public dataset for 3D OCTA; the link is [here](https://zenodo.org/records/17149202). 
+
 ---
