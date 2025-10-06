@@ -14,7 +14,7 @@ Two OCTA datasets were employed in this study. The first is a clinical dataset t
 
 OCTA volumes typically exhibit motion artifacts and noise, which make vessel segmentation challenging.
 
-![OCTA Example](intro.pdf)
+![OCTA Example](intro.png)
 *Example 3D OCTA image with visible vascular structures and imaging artifacts.*
 
 ---
